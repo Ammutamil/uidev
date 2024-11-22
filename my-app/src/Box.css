@@ -1,0 +1,7 @@
+.outerdiv{
+    /* background-color: lightgrey; */
+  width: 300px;
+  border: 12px solid black;
+  padding: 50px;
+  margin: 20px
+}
